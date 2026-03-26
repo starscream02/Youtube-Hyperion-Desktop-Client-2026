@@ -1,0 +1,28 @@
+# === YouTube Hyperion Build & Privacy Exclusions ===
+
+# Binaries & Executables
+*.exe
+*.dll
+*.app
+dist/
+build/
+bin/
+
+# Temporary Media Cache (Downloaded fragments)
+/cache/
+/temp_downloads/
+*.part
+*.ytdl
+*.ts
+
+# Local User Data (History & Local Playlists)
+/user_data/
+history.db
+local_subs.json
+settings.conf
+
+# Development & Environment
+node_modules/
+.env
+*.log
+.DS_Store
